@@ -8,7 +8,8 @@
         "description": "Just a funny video of roblox pressure sebastian animation.",
         "rating": "5.0",
         "genre": "funny",
-        "year": "2025"
+        "year": "2025",
+        "ageRating": "PG-13"
       }
     },
     {
@@ -19,7 +20,8 @@
         "description": "New pressure wall dwaller design",
         "rating": "4.5",
         "genre": "scary",
-        "year": "2025"
+        "year": "2025",
+        "ageRating": "PG-13"
       }
     }
   ],
