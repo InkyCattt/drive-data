@@ -11,6 +11,17 @@
         "year": "2025"
       }
     },
+    {
+      "movies": {
+        "title": "Pressure Wall Dwaller",
+        "thumbnail": "https://files.catbox.moe/p630e4.png",
+        "video": "https://files.catbox.moe/8qewrc.mp4",
+        "description": "New pressure wall dwaller design",
+        "rating": "4.5",
+        "genre": "scary",
+        "year": "2025"
+      }
+    }
   ],
   [
     {
