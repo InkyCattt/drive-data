@@ -47,6 +47,18 @@
         "year": "2019",
         "ageRating": "PG-13"
       }
+    },
+    {
+      "movies": {
+        "title": "The Lorax",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTU1MTAwMjk1NF5BMl5BanBnXkFtZTcwMDI5NDc4Ng@@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/1gA6oy0kuULZvBtPXTFQ_6lM5J_C7R9XJ/preview",
+        "description": "The Lorax (2012) follows Ted, a young boy who seeks to win the affection of a girl by discovering the story of the Once-ler, a mysterious man who destroyed the environment, and the Lorax, a guardian who speaks for the trees.",
+        "rating": "3.2",
+        "genre": "Superhero Action-Adventure",
+        "year": "2019",
+        "ageRating": "PG"
+      }
     }
   ],
   [
