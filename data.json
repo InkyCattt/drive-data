@@ -80,7 +80,115 @@
         "description": "Ant-Man and the Wasp: Quantumania (2023) follows Scott Lang and his family as they are pulled into the Quantum Realm, where they must face Kang the Conqueror, a powerful ruler threatening the multiverse, while trying to find a way back home.",
         "rating": "3.0",
         "genre": "Action/Sci-fi",
-        "year": "20123",
+        "year": "2023",
+        "ageRating": "PG-13"
+      }
+    },
+    {
+      "movies": {
+        "title": "Barbie",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg",
+        "video": "https://drive.google.com/file/d/1eu2Lrhxzcg45KMdp42_dWRVoch6z5HWY/preview",
+        "description": "Barbie (2023) follows Barbie and Ken as they leave the perfect world of Barbieland and enter the real world, where Barbie begins an unexpected journey of self-discovery after questioning her identity and place in the world.",
+        "rating": "3.4",
+        "genre": "Comedy/Fantasy",
+        "year": "2023",
+        "ageRating": "PG-13"
+      }
+    },
+    {
+      "movies": {
+        "title": "Beetlejuice",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjkwNzVlNDEtMTJlNy00OTdlLTljYWItM2RkZmZkYzY3YjM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1esbbsr4RhobSsyZTN2mwZwJEcpUajb6S/preview",
+        "description": "Beetlejuice (1988) follows a recently deceased couple who become ghosts in their own home and try to scare away the new owners, but accidentally summon Beetlejuice, a chaotic spirit whose interference causes even more trouble.",
+        "rating": "3.7",
+        "genre": "Horror/Fantasy",
+        "year": "1988",
+        "ageRating": "PG-13"
+      }
+    },
+    {
+      "movies": {
+        "title": "Beetlejuice Beetlejuice",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg",
+        "video": "https://drive.google.com/file/d/1MT31S750fyEAi4JleBl71iz3LZ9MS-Iv/preview",
+        "description": "Beetlejuice Beetlejuice (2024) follows Lydia Deetz and her family as they are pulled back into chaos when Beetlejuice returns after a new portal to the afterlife is accidentally opened, causing trouble across both the living and ghost worlds.",
+        "rating": "3.3",
+        "genre": "Horror/Comedy",
+        "year": "2024",
+        "ageRating": "PG-13"
+      }
+    },
+    {
+      "movies": {
+        "title": "Black Panther",
+        "thumbnail": "https://play-lh.googleusercontent.com/KvQvQySqZI5pN9bvRrYOmcE4r39PdyXZgQbUUHL8yOBMIGeENgJevo0lBjqj4EMpa_5gWg",
+        "video": "https://drive.google.com/file/d/1DGOAOBJMsrf7HnG-GYtubn8oD_oMXUMv/preview",
+        "description": "Black Panther (2018) follows T’Challa as he returns to Wakanda after his father’s death to take the throne, but he is challenged by a powerful enemy from the past that threatens both Wakanda and the world.",
+        "rating": "3.7",
+        "genre": "Action/Sci-fi",
+        "year": "2018",
+        "ageRating": "PG-13"
+      }
+    },
+    {
+      "movies": {
+        "title": "Coco",
+        "thumbnail": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/coco-resized-opt.jpg",
+        "video": "https://drive.google.com/file/d/1u1b22Ua4ThauxwW2huiHCA0VOkJhYR6R/preview",
+        "description": "Coco (2017) follows Miguel, a young boy who dreams of becoming a musician, as he accidentally enters the Land of the Dead on Día de los Muertos, where he uncovers his family’s hidden history and learns the importance of remembering loved ones.",
+        "rating": "5.0",
+        "genre": "Family/Fantasy",
+        "year": "2017",
+        "ageRating": "PG"
+      }
+    },
+    {
+      "movies": {
+        "title": "The Addams Family",
+        "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13571_p_v12_an.jpg",
+        "video": "https://drive.google.com/file/d/1DVGs7LKgFrNqbrSwWZWLxS9z1JYbGPGZ/preview",
+        "description": "The Addams Family (1991) follows the eccentric Addams family as they welcome a man claiming to be their long-lost Uncle Fester, but the family soon begins to suspect he may be part of a plot to steal their fortune.",
+        "rating": "3.5",
+        "genre": "Comedy/Horror",
+        "year": "1991",
+        "ageRating": "PG-13"
+      }
+    },
+    {
+      "movies": {
+        "title": "The Garfield Movie",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ0OGMzZWEtNzM2NC00MDkwLWIwMDQtMTM0MmJhNTc1YmY3XkEyXkFqcGc@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/1HNgYHxjJNCnu6hmNwB26VuQUA7qzrMpo/preview",
+        "description": "The Garfield Movie (2024) follows Garfield as his lazy indoor life is turned upside down when he reunites with his long-lost father and gets pulled into a wild adventure and high-stakes heist.",
+        "rating": "3.0",
+        "genre": "Family/Comedy",
+        "year": "2024",
+        "ageRating": "PG"
+      }
+    },
+    {
+      "movies": {
+        "title": "Vemon",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqFyJjFJVO_y5MMNNR9-h9R4D4DHlVccVKc2_wEYfFoShXv9QLJRmybor4HaZEVmcXKp868A&s=10",
+        "video": "https://drive.google.com/file/d/1skFNwIT1H9JL0mUIEPFU0nIjwUxTem0H/preview",
+        "description": "Venom (2018) follows journalist Eddie Brock as he bonds with an alien symbiote named Venom, gaining powerful abilities but also struggling to control the dangerous creature inside him while facing a corrupt corporation experimenting with other symbiotes.",
+        "rating": "3.3",
+        "genre": "Action/Sci-fi",
+        "year": "2018",
+        "ageRating": "PG-13"
+      }
+    },
+    {
+      "movies": {
+        "title": "Vemon Let There Be Carnage",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3NaHZWXf0MPVJ_5zcheR2GMdRgDjEtKruKBFsrqJNBe4Y5bEnf42p1i0TXkzvphrVs7pXQ&s=10",
+        "video": "https://drive.google.com/file/d/1DYOrDiR335XDbB5bFMmYgk2LoGWE37mg/preview",
+        "description": "Venom: Let There Be Carnage (2021) follows Eddie Brock and Venom as they struggle with their unstable partnership while facing Cletus Kasady, a deadly serial killer who becomes the host of the violent symbiote Carnage, leading to a destructive showdown.",
+        "rating": "3.0",
+        "genre": "Action/Sci-fi",
+        "year": "2021",
         "ageRating": "PG-13"
       }
     }
