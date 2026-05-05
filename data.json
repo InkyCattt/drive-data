@@ -111,7 +111,7 @@
     {
       "movies": {
         "title": "Beetlejuice Beetlejuice",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtPXC51uYWe1gM4x4B6gETtLjSgWLP9zmphuHixMOO44cYWK0XkxG6hpU3nYZpODh7NVxRYQ&s=10",
         "video": "https://drive.google.com/file/d/1MT31S750fyEAi4JleBl71iz3LZ9MS-Iv/preview",
         "description": "Beetlejuice Beetlejuice (2024) follows Lydia Deetz and her family as they are pulled back into chaos when Beetlejuice returns after a new portal to the afterlife is accidentally opened, causing trouble across both the living and ghost worlds.",
         "rating": "3.3",
@@ -190,6 +190,30 @@
         "genre": "Action/Sci-fi",
         "year": "2021",
         "ageRating": "PG-13"
+      }
+    },
+    {
+      "movies": {
+        "title": "Wreck-It Ralph",
+        "thumbnail": "https://www.classificationoffice.govt.nz/media/images/wreck_it_ralph.width-700.jpg",
+        "video": "https://drive.google.com/file/d/1zYQ54GSkprWdAvZJLTH5q_cBKWWVGJjv/preview",
+        "description": "Wreck-It Ralph (2012) follows Ralph, a video game villain who grows tired of always being the “bad guy” and leaves his game to prove he can be a hero, but he accidentally causes a major threat that puts the entire arcade in danger.",
+        "rating": "4.0",
+        "genre": "Family/Comedy",
+        "year": "2012",
+        "ageRating": "PG"
+      }
+    }
+    {
+      "movies": {
+        "title": "Ralph Breaks the Internet",
+        "thumbnail": "https://resizing.flixster.com/SGSmngJrLudTqgmRELYew37kCQI=/206x305/v2/https://resizing.flixster.com/7qMcr3aH_5B7qGFRHSs1W6GsZNM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRmMWQ0OTA1LTYzZjUtNGU2My1hM2ZjLTFkNzg4NzY0OGI1Zi53ZWJw",
+        "video": "https://drive.google.com/file/d/1h2EJboZEVOM_swFjiJuxhhtB9ef5pS0z/preview",
+        "description": "Ralph Breaks the Internet (2018) follows Ralph and Vanellope as they enter the Internet to find a replacement part for her broken game, but their journey tests their friendship as Vanellope discovers a new world she may want to stay in.",
+        "rating": "3.5",
+        "genre": "Family/Comedy",
+        "year": "2018",
+        "ageRating": "PG"
       }
     }
   ],
