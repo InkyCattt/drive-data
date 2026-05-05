@@ -215,6 +215,42 @@
         "year": "2018",
         "ageRating": "PG"
       }
+    },
+    {
+      "movies": {
+        "title": "The Lego Movie",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBl0bYbb1tRwmwdRbGJZSI_aAJ9cYlhAKNOea0vGKKL9pa346ac1BFNM7FqNzUk9O0KNRm&s=10",
+        "video": "https://drive.google.com/file/d/1QVRSdjx0_kIemlsQEq2QT9Rz4_CRYXyr/preview",
+        "description": "The LEGO Movie (2014) follows Emmet, an ordinary construction worker who is mistaken for “The Special” and joins a group of Master Builders on a quest to stop Lord Business from freezing the LEGO world forever.",
+        "rating": "4.0",
+        "genre": "Family/Comedy",
+        "year": "2014",
+        "ageRating": "PG"
+      }
+    },
+    {
+      "movies": {
+        "title": "The Lego Movie 2",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUyfhl-Mez-Vj2kqajPC1yc4Euuu5Hmy_Y52Jgvn0FXUt7RSAXPNgrB_CRoFfwxebYHzj91TnNeaYaqi6wyMpPDAQHE8WhF1fvJHF0ce0&s=10",
+        "video": "https://drive.google.com/file/d/17GIqrx2zaNCWd4nLd1h3xC7GNXFG3oUm/preview",
+        "description": "The LEGO Movie 2: The Second Part (2019) follows Emmet and his friends as they try to save Bricksburg after it is invaded by LEGO DUPLO aliens, leading them on an adventure across strange new worlds while testing their friendships and creativity.",
+        "rating": "3.2",
+        "genre": "Family/Adventure",
+        "year": "2014",
+        "ageRating": "PG"
+      }
+    },
+    {
+      "movies": {
+        "title": "The Lego Batman Movie",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/61/The_Lego_Batman_Movie_PromotionalPoster.jpg",
+        "video": "https://drive.google.com/file/d/1QVRSdjx0_kIemlsQEq2QT9Rz4_CRYXyr/preview",
+        "description": "The LEGO Batman Movie (2017) follows Batman as he tries to save Gotham from the Joker, but is forced to learn teamwork when he accidentally adopts a young orphan and must work with allies to stop a massive villain takeover.",
+        "rating": "3.7",
+        "genre": "Family/Comedy",
+        "year": "2017",
+        "ageRating": "PG"
+      }
     }
   ],
   [
