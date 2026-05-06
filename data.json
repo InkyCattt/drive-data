@@ -22,7 +22,7 @@
         "rating": "3.3",
         "genre": "Family/Comedy",
         "year": "2022",
-        "ageRating": "PG"
+        "ageRating": "PG",
         "related": ["Sonic The Hedgehod"]
       }
     },
@@ -73,7 +73,7 @@
         "rating": "3.0",
         "genre": "Action/Sci-fi",
         "year": "2023",
-        "ageRating": "PG-13"
+        "ageRating": "PG-13",
         "related": ["Avengers Infinity War" , "Avengers Endgame", "Black Panther"]
       }
     },
@@ -124,7 +124,7 @@
         "rating": "3.7",
         "genre": "Action/Sci-fi",
         "year": "2018",
-        "ageRating": "PG-13"
+        "ageRating": "PG-13",
         "related": ["Avengers Infinity War", "Avengers Endgame", "Ant-Man and the Wasp: Quantumania"]
       }
     },
