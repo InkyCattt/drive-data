@@ -316,6 +316,58 @@
         "ageRating": "PG",
         "related": ["Home Alone"]
       }
+    },
+        {
+      "movies": {
+        "title": "Hotel Transylvania",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/1gZ4FVX5GLCSv2-i_sabXWhgl9u_3FeOB/preview",
+        "description": "Hotel Transylvania (2012) follows Dracula, who runs a hidden hotel for monsters, as he tries to protect his daughter from the human world when an ordinary boy accidentally discovers the hotel.",
+        "rating": "3.5",
+        "genre": "Family/Comedy",
+        "year": "2012",
+        "ageRating": "PG",
+        "related": ["Hotel Transylvania 2", "Hotel Transylvania 3: Summer Vacation", "Hotel Transylvania: Transformania"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Hotel Transylvania 2",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1LZI5E52J_R_Cx6f3EXLl-BAn6vuhUduD/preview",
+        "description": "Hotel Transylvania 2 (2015) follows Dracula as he worries that his half-human grandson might not be a monster, leading him to secretly put the boy through “monster training” while his parents are away.",
+        "rating": "3.2",
+        "genre": "Fantasy/Horror",
+        "year": "2015",
+        "ageRating": "PG",
+        "related": ["Hotel Transylvania", "Hotel Transylvania 3: Summer Vacation", "Hotel Transylvania: Transformania"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Hotel Transylvania 3: Summer Vacation",
+        "thumbnail": "https://static.wikia.nocookie.net/horrormovies/images/8/87/Hotel_Transylvania_3_Summer_Vacation_%282018%29_poster_%28logo_only%29.jpg/revision/latest?cb=20240425200630",
+        "video": "https://drive.google.com/file/d/1aS3rHee1w5zNTGGmSFM57DSVlC1hSvIs/preview",
+        "description": "Hotel Transylvania 3: Summer Vacation (2018) follows Dracula and his monster friends as they take a cruise vacation, where Dracula unexpectedly falls for the ship’s mysterious captain, unaware she has a dangerous secret.",
+        "rating": "3.1",
+        "genre": "Family/Comedy",
+        "year": "2018",
+        "ageRating": "PG",
+        "related": ["Hotel Transylvania", "Hotel Transylvania 2", "Hotel Transylvania: Transformania"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Hotel Transylvania: Transformania",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGYyN2Q5NGQtYWI3OS00MDMxLTlhNTktNjBkOWIwMTIzNGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1aS3rHee1w5zNTGGmSFM57DSVlC1hSvIs/preview",
+        "description": "Hotel Transylvania: Transformania (2022) follows Dracula and his monster family after a failed experiment turns them into humans while turning Johnny into a monster, forcing them to travel to reverse the transformation before it becomes permanent.",
+        "rating": "2.9",
+        "genre": "Family/Comedy",
+        "year": "2022",
+        "ageRating": "PG",
+        "related": ["Hotel Transylvania", "Hotel Transylvania 2", "Hotel Transylvania 3: Summer Vacation"]
+      }
     }
   ],
   [
