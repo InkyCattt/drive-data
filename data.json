@@ -278,6 +278,18 @@
         "year": "2015",
         "ageRating": "PG-13"
       }
+    },
+    {
+      "movies": {
+        "title": "Hidden Figures",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2RhNDRhNzctZTllMy00NTc2LWJjZmUtMzg3MTNiNjhhODMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1sfjv_SEQZQ4QPgPAeS8xckKHORr3gLiG/preview",
+        "description": "Hidden Figures (2016) follows three brilliant African-American women at NASA who play a crucial role in launching astronaut John Glenn into orbit, overcoming racial and gender barriers along the way.",
+        "rating": "3.9",
+        "genre": "Drama/History",
+        "year": "2016",
+        "ageRating": "PG"
+      }
     }
   ],
   [
