@@ -2,13 +2,25 @@
   [
     {
       "movies": {
-        "title": "Sonic 3",
-        "thumbnail": "https://files.catbox.moe/67bgwz.jpg",
-        "video": "https://drive.google.com/file/d/1h1hi-3Hn1awll6u51WQnGjkHqm3uJejF/view",
-        "description": "Sonic the Hedgehog 3 (2024) follows Team Sonic (Sonic, Tails, and Knuckles) as they team up with their enemy, Dr. Robotnik, to battle Shadow the Hedgehog, a powerful, dark hedgehog with a tragic past.",
-        "rating": "4.5",
+        "title": "Sonic The Hedgehog",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSC0YuyWqPIAze_fttlG2OzzLgn5klN4WIGk98D5cfGRwFr3-hpzRwO0gkjLFK5pLH6g6qQ&s=10",
+        "video": "https://drive.google.com/file/d/1h1hi-3Hn1awll6u51WQnGjkHqm3uJejF/preview",
+        "description": "Sonic the Hedgehog (2020) follows Sonic, a super-speedy blue hedgehog, as he teams up with a small-town sheriff to escape the government and stop Dr. Robotnik from using his powers for evil.",
+        "rating": "3.4",
         "genre": "Action-Adventure",
-        "year": "2024",
+        "year": "2020",
+        "ageRating": "PG"
+      }
+    },
+    {
+      "movies": {
+        "title": "Sonic The Hedgehog 2",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvt3N47aI1t0SBrX2d0ex3D2OK2SWlqOBKIH6uL2sDlEHv6wn4_iQQukhlZ54UClg5g7pB&s=10",
+        "video": "https://drive.google.com/file/d/1cXe1a5ueZU9U_QZBU1-XpgNK0s6wi4o6/preview",
+        "description": "Sonic the Hedgehog 2 (2022) follows Sonic as he teams up with Tails to stop Dr. Robotnik and Knuckles from obtaining a powerful emerald that could destroy civilizations.",
+        "rating": "3.3",
+        "genre": "Family/Comedy",
+        "year": "2022",
         "ageRating": "PG"
       }
     },
@@ -16,7 +28,7 @@
       "movies": {
         "title": "Avengers Endgame",
         "thumbnail": "https://www.kaleookalani.org/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-9.30.34-AM-601x900.png",
-        "video": "https://drive.google.com/file/d/1ehi9tidOYHb1RMldxtBw6-L3UhyEKVm9/view",
+        "video": "https://drive.google.com/file/d/1ehi9tidOYHb1RMldxtBw6-L3UhyEKVm9/preview",
         "description": "Avengers: Endgame (2019) follows the remaining Avengers (Iron Man, Captain America, Thor, Black Widow, Hulk, and Hawkeye) as they join forces with their former allies to undo the devastation caused by Thanos, a powerful cosmic warlord who wiped out half of all life in the universe. Through time travel, sacrifice, and one final epic battle, they fight to restore everything they lost and bring hope back to the universe.",
         "rating": "4.2",
         "genre": "Superhero Action-Adventure",
@@ -40,7 +52,7 @@
       "movies": {
         "title": "Avengers Infinity War",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg",
-        "video": "https://drive.google.com/file/d/1KM4Wexr_dDSYudYqOhAOtxEN1OP_ciG1/preview",
+        "video": "https://drive.google.com/file/d/1oKDbw6zCdSRKRbABn6nKf_4LGsA3ftwL/preview",
         "description": "Avengers: Infinity War (2018) follows the Avengers and their allies as they try to stop Thanos, a powerful warlord collecting all six Infinity Stones to wipe out half of all life in the universe.",
         "rating": "3.8",
         "genre": "Superhero Action-Adventure",
@@ -52,7 +64,7 @@
       "movies": {
         "title": "Ant-Man and the Wasp: Quantumania",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BMThkYWY5ZjQtYjJlMS00MDFmLWFkYzEtODEzZjg5YWFmMGY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "video": "https://drive.google.com/file/d/16hyfQGeDW-L-0YRaUrBcsRg3Z-KkefMS/preview",
+        "video": "https://drive.google.com/file/d/1AW3Zm8256tzZ-37lmgYmIGse4knu8IdA/preview",
         "description": "Ant-Man and the Wasp: Quantumania (2023) follows Scott Lang and his family as they are pulled into the Quantum Realm, where they must face Kang the Conqueror, a powerful ruler threatening the multiverse, while trying to find a way back home.",
         "rating": "3.0",
         "genre": "Action/Sci-fi",
@@ -64,7 +76,7 @@
       "movies": {
         "title": "Barbie",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg",
-        "video": "https://drive.google.com/file/d/1eu2Lrhxzcg45KMdp42_dWRVoch6z5HWY/preview",
+        "video": "https://drive.google.com/file/d/1K88LvZ6q9KRwsdiVQ72Wrh5DQqWVLkd3/preview",
         "description": "Barbie (2023) follows Barbie and Ken as they leave the perfect world of Barbieland and enter the real world, where Barbie begins an unexpected journey of self-discovery after questioning her identity and place in the world.",
         "rating": "3.4",
         "genre": "Comedy/Fantasy",
@@ -76,7 +88,7 @@
       "movies": {
         "title": "Beetlejuice",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjkwNzVlNDEtMTJlNy00OTdlLTljYWItM2RkZmZkYzY3YjM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "video": "https://drive.google.com/file/d/1esbbsr4RhobSsyZTN2mwZwJEcpUajb6S/preview",
+        "video": "https://drive.google.com/file/d/1fs2-oBGADuUeepkLX2V3zxNNUstHvBTs/preview",
         "description": "Beetlejuice (1988) follows a recently deceased couple who become ghosts in their own home and try to scare away the new owners, but accidentally summon Beetlejuice, a chaotic spirit whose interference causes even more trouble.",
         "rating": "3.7",
         "genre": "Horror/Fantasy",
@@ -88,7 +100,7 @@
       "movies": {
         "title": "Beetlejuice Beetlejuice",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtPXC51uYWe1gM4x4B6gETtLjSgWLP9zmphuHixMOO44cYWK0XkxG6hpU3nYZpODh7NVxRYQ&s=10",
-        "video": "https://drive.google.com/file/d/1MT31S750fyEAi4JleBl71iz3LZ9MS-Iv/preview",
+        "video": "https://drive.google.com/file/d/1OsCtW4NUV94utDNxmFejUFoH6euf8Ind/preview",
         "description": "Beetlejuice Beetlejuice (2024) follows Lydia Deetz and her family as they are pulled back into chaos when Beetlejuice returns after a new portal to the afterlife is accidentally opened, causing trouble across both the living and ghost worlds.",
         "rating": "3.3",
         "genre": "Horror/Comedy",
@@ -100,7 +112,7 @@
       "movies": {
         "title": "Black Panther",
         "thumbnail": "https://play-lh.googleusercontent.com/KvQvQySqZI5pN9bvRrYOmcE4r39PdyXZgQbUUHL8yOBMIGeENgJevo0lBjqj4EMpa_5gWg",
-        "video": "https://drive.google.com/file/d/1DGOAOBJMsrf7HnG-GYtubn8oD_oMXUMv/preview",
+        "video": "https://drive.google.com/file/d/1wdUOiz7tI3R5vTz779h7CesAW5h0kUh1/preview",
         "description": "Black Panther (2018) follows T’Challa as he returns to Wakanda after his father’s death to take the throne, but he is challenged by a powerful enemy from the past that threatens both Wakanda and the world.",
         "rating": "3.7",
         "genre": "Action/Sci-fi",
@@ -112,7 +124,7 @@
       "movies": {
         "title": "Coco",
         "thumbnail": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/coco-resized-opt.jpg",
-        "video": "https://drive.google.com/file/d/1u1b22Ua4ThauxwW2huiHCA0VOkJhYR6R/preview",
+        "video": "https://drive.google.com/file/d/194M4dGCwh1hTxVM1-_axnLSdt4trnbK2/preview",
         "description": "Coco (2017) follows Miguel, a young boy who dreams of becoming a musician, as he accidentally enters the Land of the Dead on Día de los Muertos, where he uncovers his family’s hidden history and learns the importance of remembering loved ones.",
         "rating": "5.0",
         "genre": "Family/Fantasy",
@@ -122,9 +134,21 @@
     },
     {
       "movies": {
+        "title": "Coraline",
+        "thumbnail": "https://resizing.flixster.com/u4QgzhGunwGzwBKN6EfPWiRUUzI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EyNjNmMjE2LWE5ZDEtNGI4Mi05ZjM1LTIzMWQxOWY2YTZiNC5qcGc=",
+        "video": "https://drive.google.com/file/d/1TFiL16cNmQmG5pSi-s6od4xgymFqK1kJ/preview",
+        "description": "Coraline (2009) follows Coraline, a curious girl who discovers a hidden door to a seemingly perfect alternate world, but soon realizes it hides a dark and dangerous secret.",
+        "rating": "3.9",
+        "genre": "Family/Horror",
+        "year": "2009",
+        "ageRating": "PG"
+      }
+    },
+    {
+      "movies": {
         "title": "The Addams Family",
         "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13571_p_v12_an.jpg",
-        "video": "https://drive.google.com/file/d/1DVGs7LKgFrNqbrSwWZWLxS9z1JYbGPGZ/preview",
+        "video": "https://drive.google.com/file/d/19ZYLs_076nTJtl7bEUtkwpfbwwj-GevJ/preview",
         "description": "The Addams Family (1991) follows the eccentric Addams family as they welcome a man claiming to be their long-lost Uncle Fester, but the family soon begins to suspect he may be part of a plot to steal their fortune.",
         "rating": "3.5",
         "genre": "Comedy/Horror",
@@ -136,7 +160,7 @@
       "movies": {
         "title": "The Garfield Movie",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ0OGMzZWEtNzM2NC00MDkwLWIwMDQtMTM0MmJhNTc1YmY3XkEyXkFqcGc@._V1_.jpg",
-        "video": "https://drive.google.com/file/d/1HNgYHxjJNCnu6hmNwB26VuQUA7qzrMpo/preview",
+        "video": "https://drive.google.com/file/d/1g_YZyeIbjua21PNL4ZLfeIzJx-givpPE/preview",
         "description": "The Garfield Movie (2024) follows Garfield as his lazy indoor life is turned upside down when he reunites with his long-lost father and gets pulled into a wild adventure and high-stakes heist.",
         "rating": "3.0",
         "genre": "Family/Comedy",
@@ -148,7 +172,7 @@
       "movies": {
         "title": "Vemon",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqFyJjFJVO_y5MMNNR9-h9R4D4DHlVccVKc2_wEYfFoShXv9QLJRmybor4HaZEVmcXKp868A&s=10",
-        "video": "https://drive.google.com/file/d/1skFNwIT1H9JL0mUIEPFU0nIjwUxTem0H/preview",
+        "video": "https://drive.google.com/file/d/1iRN197XeJCQnZGza599ZTXsayEG1mdRB/preview",
         "description": "Venom (2018) follows journalist Eddie Brock as he bonds with an alien symbiote named Venom, gaining powerful abilities but also struggling to control the dangerous creature inside him while facing a corrupt corporation experimenting with other symbiotes.",
         "rating": "3.3",
         "genre": "Action/Sci-fi",
@@ -160,7 +184,7 @@
       "movies": {
         "title": "Vemon Let There Be Carnage",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3NaHZWXf0MPVJ_5zcheR2GMdRgDjEtKruKBFsrqJNBe4Y5bEnf42p1i0TXkzvphrVs7pXQ&s=10",
-        "video": "https://drive.google.com/file/d/1DYOrDiR335XDbB5bFMmYgk2LoGWE37mg/preview",
+        "video": "https://drive.google.com/file/d/1N6kL0SF4qR6wFpwfGIZUZjFnz3lQDGGz/preview",
         "description": "Venom: Let There Be Carnage (2021) follows Eddie Brock and Venom as they struggle with their unstable partnership while facing Cletus Kasady, a deadly serial killer who becomes the host of the violent symbiote Carnage, leading to a destructive showdown.",
         "rating": "3.0",
         "genre": "Action/Sci-fi",
@@ -172,7 +196,7 @@
       "movies": {
         "title": "Wreck-It Ralph",
         "thumbnail": "https://www.classificationoffice.govt.nz/media/images/wreck_it_ralph.width-700.jpg",
-        "video": "https://drive.google.com/file/d/1zYQ54GSkprWdAvZJLTH5q_cBKWWVGJjv/preview",
+        "video": "https://drive.google.com/file/d/11NQ1_ecO2FTIhofVPIfakshgSBnR6ngC/preview",
         "description": "Wreck-It Ralph (2012) follows Ralph, a video game villain who grows tired of always being the “bad guy” and leaves his game to prove he can be a hero, but he accidentally causes a major threat that puts the entire arcade in danger.",
         "rating": "4.0",
         "genre": "Family/Comedy",
@@ -184,7 +208,7 @@
       "movies": {
         "title": "Ralph Breaks the Internet",
         "thumbnail": "https://resizing.flixster.com/SGSmngJrLudTqgmRELYew37kCQI=/206x305/v2/https://resizing.flixster.com/7qMcr3aH_5B7qGFRHSs1W6GsZNM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRmMWQ0OTA1LTYzZjUtNGU2My1hM2ZjLTFkNzg4NzY0OGI1Zi53ZWJw",
-        "video": "https://drive.google.com/file/d/1h2EJboZEVOM_swFjiJuxhhtB9ef5pS0z/preview",
+        "video": "https://drive.google.com/file/d/1MQMWT5mYBF07GXiqgzAU8h9BcFe0phu9/preview",
         "description": "Ralph Breaks the Internet (2018) follows Ralph and Vanellope as they enter the Internet to find a replacement part for her broken game, but their journey tests their friendship as Vanellope discovers a new world she may want to stay in.",
         "rating": "3.5",
         "genre": "Family/Comedy",
@@ -196,7 +220,7 @@
       "movies": {
         "title": "The Lego Movie",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBl0bYbb1tRwmwdRbGJZSI_aAJ9cYlhAKNOea0vGKKL9pa346ac1BFNM7FqNzUk9O0KNRm&s=10",
-        "video": "https://drive.google.com/file/d/1QVRSdjx0_kIemlsQEq2QT9Rz4_CRYXyr/preview",
+        "video": "https://drive.google.com/file/d/1j2kFu1apjVp0E2_xojdiqASlQOc8RBit/preview",
         "description": "The LEGO Movie (2014) follows Emmet, an ordinary construction worker who is mistaken for “The Special” and joins a group of Master Builders on a quest to stop Lord Business from freezing the LEGO world forever.",
         "rating": "4.0",
         "genre": "Family/Comedy",
@@ -208,7 +232,7 @@
       "movies": {
         "title": "The Lego Movie 2",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUyfhl-Mez-Vj2kqajPC1yc4Euuu5Hmy_Y52Jgvn0FXUt7RSAXPNgrB_CRoFfwxebYHzj91TnNeaYaqi6wyMpPDAQHE8WhF1fvJHF0ce0&s=10",
-        "video": "https://drive.google.com/file/d/17GIqrx2zaNCWd4nLd1h3xC7GNXFG3oUm/preview",
+        "video": "https://drive.google.com/file/d/1_sb4Ogn-0xQX3Znf21COpLMrfs_x6Nuv/preview",
         "description": "The LEGO Movie 2: The Second Part (2019) follows Emmet and his friends as they try to save Bricksburg after it is invaded by LEGO DUPLO aliens, leading them on an adventure across strange new worlds while testing their friendships and creativity.",
         "rating": "3.2",
         "genre": "Family/Adventure",
@@ -220,12 +244,24 @@
       "movies": {
         "title": "The Lego Batman Movie",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/61/The_Lego_Batman_Movie_PromotionalPoster.jpg",
-        "video": "https://drive.google.com/file/d/1QVRSdjx0_kIemlsQEq2QT9Rz4_CRYXyr/preview",
+        "video": "https://drive.google.com/file/d/1Xn4F4GNvfKOljko2ZE_JUQcBWIHhO0ql/preview",
         "description": "The LEGO Batman Movie (2017) follows Batman as he tries to save Gotham from the Joker, but is forced to learn teamwork when he accidentally adopts a young orphan and must work with allies to stop a massive villain takeover.",
         "rating": "3.7",
         "genre": "Family/Comedy",
         "year": "2017",
         "ageRating": "PG"
+      }
+    },
+    {
+      "movies": {
+        "title": "Pixels",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzIyNTc1NmUtOTBlNS00YzEwLTlkZTMtZjJkMGM2YzNkYmY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1Wpvc4eawdHc3DjkVVop959tYmJL6m3J2/preview",
+        "description": "Pixels (2015) follows a group of former arcade champions who are recruited by the government to fight alien invaders who attack Earth using giant versions of classic video games.",
+        "rating": 2.8",
+        "genre": "Comedy/Sci-fi",
+        "year": "2015",
+        "ageRating": "PG-13"
       }
     }
   ],
