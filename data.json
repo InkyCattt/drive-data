@@ -9,7 +9,8 @@
         "rating": "3.4",
         "genre": "Action-Adventure",
         "year": "2020",
-        "ageRating": "PG"
+        "ageRating": "PG",
+        "related": ["Sonic The Hedgehod 2"]
       }
     },
     {
@@ -22,6 +23,7 @@
         "genre": "Family/Comedy",
         "year": "2022",
         "ageRating": "PG"
+        "related": ["Sonic The Hedgehod"]
       }
     },
     {
@@ -33,7 +35,8 @@
         "rating": "4.2",
         "genre": "Superhero Action-Adventure",
         "year": "2019",
-        "ageRating": "PG-13"
+        "ageRating": "PG-13",
+        "related": ["Avengers Infinity War" , "Ant-Man and the Wasp: Quantumania" , "Black Panther"]
       }
     },
     {
@@ -57,7 +60,8 @@
         "rating": "3.8",
         "genre": "Superhero Action-Adventure",
         "year": "2018",
-        "ageRating": "PG-13"
+        "ageRating": "PG-13",
+        "related": ["Avengers Endgame", "Ant-Man and the Wasp: Quantumania" , "Black Panther"]
       }
     },
     {
@@ -70,6 +74,7 @@
         "genre": "Action/Sci-fi",
         "year": "2023",
         "ageRating": "PG-13"
+        "related": ["Avengers Infinity War" , "Avengers Endgame", "Black Panther"]
       }
     },
     {
@@ -93,7 +98,8 @@
         "rating": "3.7",
         "genre": "Horror/Fantasy",
         "year": "1988",
-        "ageRating": "PG-13"
+        "ageRating": "PG-13",
+        "related": ["Beetlejuice Beetlejuice"]
       }
     },
     {
@@ -105,7 +111,8 @@
         "rating": "3.3",
         "genre": "Horror/Comedy",
         "year": "2024",
-        "ageRating": "PG-13"
+        "ageRating": "PG-13",
+        "related": ["Beetlejuice"]
       }
     },
     {
@@ -118,6 +125,7 @@
         "genre": "Action/Sci-fi",
         "year": "2018",
         "ageRating": "PG-13"
+        "related": ["Avengers Infinity War", "Avengers Endgame", "Ant-Man and the Wasp: Quantumania"]
       }
     },
     {
@@ -177,7 +185,8 @@
         "rating": "3.3",
         "genre": "Action/Sci-fi",
         "year": "2018",
-        "ageRating": "PG-13"
+        "ageRating": "PG-13",
+        "related": ["Vemon Let There Be Carnage"]
       }
     },
     {
@@ -189,7 +198,8 @@
         "rating": "3.0",
         "genre": "Action/Sci-fi",
         "year": "2021",
-        "ageRating": "PG-13"
+        "ageRating": "PG-13",
+        "related": ["Vemon"]
       }
     },
     {
@@ -201,7 +211,8 @@
         "rating": "4.0",
         "genre": "Family/Comedy",
         "year": "2012",
-        "ageRating": "PG"
+        "ageRating": "PG",
+        "related": ["Ralph Breaks the Internet"]
       }
     },
     {
@@ -213,7 +224,8 @@
         "rating": "3.5",
         "genre": "Family/Comedy",
         "year": "2018",
-        "ageRating": "PG"
+        "ageRating": "PG",
+        "related": ["Wreck-It Ralph"]
       }
     },
     {
@@ -225,7 +237,8 @@
         "rating": "4.0",
         "genre": "Family/Comedy",
         "year": "2014",
-        "ageRating": "PG"
+        "ageRating": "PG",
+        "related": ["The Lego Movie 2", "The Lego Batman Movie"]
       }
     },
     {
@@ -237,7 +250,8 @@
         "rating": "3.2",
         "genre": "Family/Adventure",
         "year": "2014",
-        "ageRating": "PG"
+        "ageRating": "PG",
+        "related": ["The Lego Movie", "The Lego Batman Movie"]
       }
     },
     {
@@ -249,7 +263,8 @@
         "rating": "3.7",
         "genre": "Family/Comedy",
         "year": "2017",
-        "ageRating": "PG"
+        "ageRating": "PG",
+        "related": ["The Lego Movie", "The Lego Movie 2"]
       }
     },
     {
