@@ -368,6 +368,83 @@
         "ageRating": "PG",
         "related": ["Hotel Transylvania", "Hotel Transylvania 2", "Hotel Transylvania 3: Summer Vacation"]
       }
+    },
+    {
+      "movies": {
+        "title": "IT",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGZmOTZjNzUtOTE4OS00OGM3LWJiNGEtZjk4Yzg2M2Q1YzYxXkEyXkFqcGc@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/1T5xeDfwFXqP0WJMExe3nwnwHgUozfXK2/preview",
+        "description": "It (2017) follows a group of kids in the town of Derry who band together as “The Losers Club” to confront Pennywise, a terrifying shape-shifting clown that feeds on fear and preys on children every 27 years.",
+        "rating": "4.5",
+        "genre": "Supernatural/Horror",
+        "year": "2017",
+        "ageRating": "R"
+      }
+    },
+    {
+      "movies": {
+        "title": "Scream",
+        "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18852_p_v10_al.jpg",
+        "video": "https://drive.google.com/file/d/14UKIE2jtMo0qFPbomlXVKsKA5l81W4OE/preview",
+        "description": "Scream (1996) follows Sidney Prescott and her friends as they are stalked by a masked killer known as Ghostface, who terrorizes their town while following deadly horror movie “rules.”",
+        "rating": "5.0",
+        "genre": "Horror/Mystery",
+        "year": "1996",
+        "ageRating": "R",
+        "related": ["Scream 2", "Scream 3", "Scream 4", "Scream 5"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Scream 2",
+        "thumbnail": "https://revuecinema.ca/wp-content/uploads/2024/07/Scream_2_TMDB-dORlVasiaDkJXTqt9bdH7nFNs6C-683x1024.jpg",
+        "video": "https://drive.google.com/file/d/1XXmiwcrUSMi5rn90xr5hnBK6La8hBkhz/preview",
+        "description": "Scream 2 (1997) follows Sidney Prescott in college as a new Ghostface killer emerges, recreating the original Woodsboro murders and targeting her and her friends once again.",
+        "rating": "4.2",
+        "genre": "Horror/Mystery",
+        "year": "1997",
+        "ageRating": "R",
+        "related": ["Scream", "Scream 3", "Scream 4", "Scream 5"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Scream 3",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc4MThjNDItNWIzYy00NjA5LWExMTAtNjAzZGQwZTViN2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1O1mkNEfq98w2Zrxyg6XLCfJI_bmfwWp_/preview",
+        "description": "Scream 3 (2000) follows Sidney Prescott as she is drawn into the set of a Hollywood movie based on the Woodsboro murders, where a new Ghostface begins killing cast and crew members.",
+        "rating": "2.6",
+        "genre": "Horror/Mystery",
+        "year": "2000",
+        "ageRating": "R",
+        "related": ["Scream", "Scream 2", "Scream 4", "Scream 5"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Scream 4",
+        "thumbnail": "https://i.ebayimg.com/images/g/wwkAAeSwZCVoy6R3/s-l400.jpg",
+        "video": "https://drive.google.com/file/d/1t4kNJPFCytvx2ktdw5n6xBOtRNnBm5RJ/preview",
+        "description": "Scream 4 (2011) follows Sidney Prescott returning to Woodsboro for her book tour, only for a new Ghostface killer to appear, targeting a new generation while repeating the same deadly patterns of the past.",
+        "rating": "3.7",
+        "genre": "Horror/Mystery",
+        "year": "2011",
+        "ageRating": "R",
+        "related": ["Scream", "Scream 2", "Scream 3", "Scream 5"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Scream 5",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2NkYTYzOGUtMzk1Yy00YmI0LWIzODEtMjQ0MWU0NWI4ODdlXkEyXkFqcGc@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/152-KeFdBMBscGESWVWLuDS-YUf8VsRCd/preview",
+        "description": "Scream (2022) follows a new Ghostface killer in Woodsboro who targets a group of teenagers connected to the original killings, drawing Sidney Prescott, Gale Weathers, and Dewey back into the deadly game once again.",
+        "rating": "5.0",
+        "genre": "Horror/Mystery",
+        "year": "2022",
+        "ageRating": "R",
+        "related": ["Scream", "Scream 2", "Scream 3", "Scream 5"]
+      }
     }
   ],
   [
