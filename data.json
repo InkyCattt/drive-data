@@ -173,7 +173,21 @@
         "rating": "3.0",
         "genre": "Family/Comedy",
         "year": "2024",
-        "ageRating": "PG"
+        "ageRating": "PG",
+        "related": ["Garfield"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Garfield",
+        "thumbnail": "https://i.redd.it/68spv08zwk7b1.jpg",
+        "video": "https://drive.google.com/file/d/1xMRDhscsmtcrECXXuOsqpAADTHJ0FxGS/preview",
+        "description": "Garfield (2004) follows Garfield, a lazy, sarcastic cat who lives a comfortable life until his owner adopts a dog named Odie, forcing Garfield into a rivalry that turns into an unexpected rescue adventure.",
+        "rating": "2.0",
+        "genre": "Family/Comedy",
+        "year": "2004",
+        "ageRating": "PG",
+        "related": ["The Garfield Movie"]
       }
     },
     {
