@@ -227,18 +227,6 @@
         "year": "2017",
         "ageRating": "PG"
       }
-    },
-    {
-      "movies": {
-        "title": "Test",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/61/The_Lego_Batman_Movie_PromotionalPoster.jpg",
-        "video": "https://www.youtube.com/watch?v=GDilE0KoCbM",
-        "description": "The LEGO Batman Movie (2017) follows Batman as he tries to save Gotham from the Joker, but is forced to learn teamwork when he accidentally adopts a young orphan and must work with allies to stop a massive villain takeover.",
-        "rating": "3.7",
-        "genre": "E/E",
-        "year": "19999",
-        "ageRating": "PG"
-      }
     }
   ],
   [
