@@ -463,12 +463,25 @@
   ],
   [
     {
-      "music": {}
-    }
-  ],
-  [
-    {
-      "tv shows": {}
+      "tvshows": {
+        "title": "Chainsaw Man",
+        "thumbnail": "https://m.media-amazon.com/images/I/81iZCUeRLXL._AC_UF1000,1000_QL80_.jpg",
+        "seaons": "1",
+        "episodes": [
+          {
+            "title": "Dog & Chainsaw",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRge8M2nOXJGPwC_FgWA02GOmafRFqVT6Gbxg&s",
+            "video": "https://drive.google.com/file/d/1QrgemMpyiu1WA7Lvui66mSc180lVwXA1/preview",
+            "description": "Chainsaw Man Episode 1 (2022) follows Denji, a broke devil hunter struggling to survive, who is betrayed and killed by the yakuza but is revived after merging with his devil dog Pochita, becoming Chainsaw Man and taking on a brutal new life fighting devils.",
+            "season": "1"
+          }
+        ],
+        "description": "Chainsaw Man (2022–present) follows Denji, a poor young man who merges with his devil dog Pochita and becomes Chainsaw Man, a powerful hybrid devil hunter working for Public Safety while battling deadly devils and navigating a violent, chaotic world.",
+        "rating": "4.9",
+        "genre": "Fantasy/Action",
+        "year": "2022",
+        "ageRating": "TV-MA"
+      }
     }
   ]
 ]
