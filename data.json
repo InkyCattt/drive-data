@@ -2,6 +2,45 @@
   [
     {
       "movies": {
+        "title": "Spider-Man: Homecoming",
+        "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12798844_p_v8_ao.jpg",
+        "video": "https://drive.google.com/file/d/1jGHx1i3EqHKmQmE42APmxUk4bYHrINQ_/preview",
+        "description": "Spider-Man: Homecoming (2017) follows Peter Parker as he balances high school life with being Spider-Man while trying to prove himself to Tony Stark by stopping the Vulture, a criminal using advanced alien technology.",
+        "rating": "3.8",
+        "genre": "Action/Fantasy",
+        "year": "2019",
+        "ageRating": "PG-13",
+        "related": ["Spider-Man: Far From Home", "Spider-Man: No Way Home"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Spider-Man: No Way Home",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1mUF4PcT0_ZKofV0KHHdjxgTQdhF2BliQ/preview",
+        "description": "Spider-Man: No Way Home (2021) follows Peter Parker after his identity is revealed to the world, leading him to seek Doctor Strange’s help, but a broken spell opens the multiverse and brings dangerous villains from other Spider-Man universes into his world.",
+        "rating": "4.1",
+        "genre": "Family/Sci-fi",
+        "year": "2021",
+        "ageRating": "PG-13",
+        "related": ["Spider-Man: Homecoming", "Spider-Man: Far From Home"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Spider-Man: Far From Home",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/1vPNUTkubVVmguVfwstRQm5xgbkRRii6z/preview",
+        "description": "Spider-Man: Far From Home (2019) follows Peter Parker on a school trip across Europe, where he teams up with Mysterio to battle destructive elemental creatures while struggling with the responsibility left behind by Tony Stark.",
+        "rating": "3.7",
+        "genre": "Family/Sci-fi",
+        "year": "2019",
+        "ageRating": "PG-13",
+        "related": ["Spider-Man: Homecoming", "Spider-Man: No Way Home"]
+      }
+    },
+    {
+      "movies": {
         "title": "Spider-Man: Into the Spider-Verse",
         "thumbnail": "https://i.imgur.com/gPhiKM5.jpg",
         "video": "https://drive.google.com/file/d/1V3Bq0lrDQUxJay5DDs3gK69ZvRNb1j2u/preview",
