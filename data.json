@@ -2,6 +2,32 @@
   [
     {
       "movies": {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "thumbnail": "https://i.imgur.com/gPhiKM5.jpg",
+        "video": "https://drive.google.com/file/d/1V3Bq0lrDQUxJay5DDs3gK69ZvRNb1j2u/preview",
+        "description": "Spider-Man: Into the Spider-Verse (2018) follows Miles Morales as he gains spider powers and teams up with Spider-People from different universes to stop a threat that could destroy the multiverse.",
+        "rating": "4.2",
+        "genre": "Family/Action",
+        "year": "2018",
+        "ageRating": "PG",
+        "related": ["Spider-Man: Across the Spider-Verse"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/1Sd1l_LhKRp_2OE5gRJJyPubnZjJccLgQ/previewg",
+        "description": "Spider-Man: Across the Spider-Verse (2023) follows Miles Morales as he travels across the multiverse and encounters a powerful society of Spider-People, forcing him to choose between protecting his loved ones or following the fate expected of every Spider-Man.",
+        "rating": "4.2",
+        "genre": "Action/Sci-fi",
+        "year": "2023",
+        "ageRating": "PG",
+        "related": ["Spider-Man: Into the Spider-Verse"]
+      }
+    },
+    {
+      "movies": {
         "title": "Sonic The Hedgehog",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSC0YuyWqPIAze_fttlG2OzzLgn5klN4WIGk98D5cfGRwFr3-hpzRwO0gkjLFK5pLH6g6qQ&s=10",
         "video": "https://drive.google.com/file/d/1h1hi-3Hn1awll6u51WQnGjkHqm3uJejF/preview",
