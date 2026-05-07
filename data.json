@@ -2,6 +2,32 @@
   [
     {
       "movies": {
+        "title": "Space Jam",
+        "thumbnail": "https://static.wikia.nocookie.net/hoopz-barkley-saga/images/9/9e/Article-spacejamweb-0221.jpg/revision/latest?cb=20140705211836",
+        "video": "https://drive.google.com/file/d/1QK9RHd2T-ijthIL7A6NQvRztPkTx8NtN/preview",
+        "description": "Space Jam (1996) follows basketball legend Michael Jordan as he teams up with Bugs Bunny and the Looney Tunes to play a high-stakes basketball game against alien invaders called the Monstars to save the Looney Tunes’ freedom.",
+        "rating": "3.2",
+        "genre": "Family/Sport",
+        "year": "1996 ",
+        "ageRating": "PG",
+        "related": ["Space Jam: A New Legacy"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Space Jam: A New Legacy",
+        "thumbnail": "https://preview.redd.it/space-jam-a-new-legacy-is-finally-out-thoughts-v0-ijm7ymszonb71.jpg?auto=webp&s=2393a0ac4527b25a59150080f843812606bd91a9",
+        "video": "https://drive.google.com/file/d/17hubcXZlc8AQCick-5kdB11mpEQlM1Zw/preview",
+        "description": "Space Jam: A New Legacy (2021) follows LeBron James as he gets trapped inside a digital world and teams up with Bugs Bunny and the Looney Tunes to win a basketball game against a powerful AI system threatening to erase them.",
+        "rating": "2.7",
+        "genre": "Family/Comedy",
+        "year": "2021 ",
+        "ageRating": "PG",
+        "related": ["Space Jam"]
+      }
+    },
+    {
+      "movies": {
         "title": "Saw",
         "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34813_v_v8_al.jpg",
         "video": "https://drive.google.com/file/d/1nZn3QfKiiZgg4nx3GRA4-K6obuJLlepm/preview",
