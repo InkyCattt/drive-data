@@ -2,6 +2,18 @@
   [
     {
       "movies": {
+        "title": "The Nightmare Before Christmast",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmYxOTAzZWYtOGI3Yi00ODc3LTk5ZjYtZTY0MzVkZTg3YmRiXkEyXkFqcGc@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/18kPSz36s513USdqpGX76CiG30bTAW3iO/preview",
+        "description": "The Nightmare Before Christmas (1993) follows Jack Skellington, the Pumpkin King of Halloween Town, as he becomes obsessed with Christmas and attempts to take over the holiday, causing chaos across both worlds.",
+        "rating": "4.3",
+        "genre": "Family/Fantasy ",
+        "year": "1993",
+        "ageRating": "PG"
+      }
+    },
+    {
+      "movies": {
         "title": "Scary Movie",
         "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25765_p_v12_aj.jpg",
         "video": "https://drive.google.com/file/d/1-61Fls8_MDTVq3r5dHP58joVRiUloxZQ/preview",
