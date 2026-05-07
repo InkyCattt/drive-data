@@ -2,6 +2,30 @@
   [
     {
       "movies": {
+        "title": "Diary of a Wimpy Kid: Rodrick Rules",
+        "thumbnail": "https://m.media-amazon.com/images/I/91e7li5QviL._AC_UF894,1000_QL80_.jpg",
+        "video": "https://drive.google.com/file/d/1rKRsgdNioFs3rtkZai7Gz97FtAX0jdJ_/preview",
+        "description": "Diary of a Wimpy Kid: Rodrick Rules (2011) follows Greg Heffley as he struggles to survive middle school while dealing with his older brother Rodrick’s constant pranks, secrets, and chaos at home.",
+        "rating": "3.3",
+        "genre": "Family/Comedy",
+        "year": "2011",
+        "ageRating": "PG"
+      }
+    },
+    {
+      "movies": {
+        "title": "Corpse bride",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/1AHqrYm4cItyiEquPHJV5z3H81Cc0cCfI/preview",
+        "description": "Corpse Bride (2005) follows Victor, a nervous groom who accidentally marries a deceased bride while rehearsing his vows, pulling him into the Land of the Dead where he must choose between two worlds and two brides.",
+        "rating": "3.8",
+        "genre": "Family/Fantasy",
+        "year": "2005",
+        "ageRating": "PG"
+      }
+    },
+    {
+      "movies": {
         "title": "Terrifier",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzY5ZTAxZDgtN2E3Zi00NTUxLWJmZDUtZTliMTA3Y2Y1NjU0XkEyXkFqcGc@._V1_.jpg",
         "video": "https://drive.google.com/file/d/18N4_ou-sji02HD3dOFNP0aDqCBleLr7G/preview",
