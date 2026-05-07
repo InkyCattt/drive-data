@@ -2,6 +2,45 @@
   [
     {
       "movies": {
+        "title": "Deadpool",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjYzYjcyZTgtNWQ3OS00NTA4LWE4MjMtZTgxOWJmZjU1ZmFiXkEyXkFqcGc@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/1XUjU4fhDH7qpPEg_me8vlMba1uelRIwj/preview",
+        "description": "Deadpool (2016) follows Wade Wilson, a wisecracking mercenary who gains accelerated healing powers after a rogue experiment, becoming Deadpool as he hunts the man who disfigured him while breaking every rule along the way.",
+        "rating": "4.0",
+        "genre": "Action/Comedy",
+        "year": "2016",
+        "ageRating": "R",
+        "related": ["Deadpool 2", "Deadpool & Wolverine"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Dealpool 2",
+        "thumbnail": "https://m.media-amazon.com/images/I/91Sngi7tt2L._AC_UF894,1000_QL80_.jpg",
+        "video": "https://drive.google.com/file/d/1wcE3D19t54BnWtLNl5cruklfPVPh92nY/preview",
+        "description": "Deadpool 2 (2018) follows Wade Wilson as he forms a team of mutants called X-Force to protect a young mutant from the time-traveling soldier Cable, all while continuing his chaotic, self-aware hero antics.",
+        "rating": "3.8",
+        "genre": "Action/Comedy",
+        "year": "2018",
+        "ageRating": "R",
+        "related": ["Deadpool", "Deadpool & Wolverine"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Deadpool & Wolverine",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1B_eiKUt7N5OxyUN9c37LG0pxcErP4yJ6/preview",
+        "description": "Deadpool & Wolverine (2024) follows Deadpool as he teams up with Wolverine to face a powerful threat that endangers multiple realities, forcing the two reluctant allies to work together despite their constant rivalry and chaos.",
+        "rating": "3.9",
+        "genre": "Action/Comedy",
+        "year": "2024",
+        "ageRating": "R",
+        "related": ["Deadpool ", "Deadpool 2"]
+      }
+    },
+    {
+      "movies": {
         "title": "Diary of a Wimpy Kid: Rodrick Rules",
         "thumbnail": "https://m.media-amazon.com/images/I/91e7li5QviL._AC_UF894,1000_QL80_.jpg",
         "video": "https://drive.google.com/file/d/1rKRsgdNioFs3rtkZai7Gz97FtAX0jdJ_/preview",
