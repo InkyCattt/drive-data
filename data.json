@@ -2,6 +2,45 @@
   [
     {
       "movies": {
+        "title": "Spider-Man",
+        "thumbnail": "https://i.redd.it/ourazguupfx71.jpg",
+        "video": "https://drive.google.com/file/d/1sqWGrmbGc5lBmoFbtfMSIaqb60eXppvF/preview",
+        "description": "Spider-Man (2002) follows Peter Parker, a shy high school student who gains spider-like powers after being bitten by a genetically altered spider and becomes Spider-Man while facing the dangerous Green Goblin.",
+        "rating": "3.9",
+        "genre": "Action/Sci-fi",
+        "year": "2002",
+        "ageRating": "PG-13",
+        "related": ["Spider-Man 2", "Spider-Man 3"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Spider-Man 2",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/1yV7ZmEkfOVOLdV51wN6vSeDf3_tQqBvf/preview",
+        "description": "Spider-Man 2 (2004) follows Peter Parker as he struggles to balance his personal life with being Spider-Man while facing Doctor Octopus, a brilliant scientist whose experiment turns him into a dangerous villain.",
+        "rating": "4.0",
+        "genre": "Action/Sci-fi",
+        "year": "2004",
+        "ageRating": "PG-13",
+        "related": ["Spider-Man", "Spider-Man 3"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Spider-Man 3",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1ExTfRPC3YGmCSg8W2uFSYkUMw7a1vcTR/preview",
+        "description": "Spider-Man 3 (2007) follows Peter Parker as he battles Sandman, Venom, and the New Goblin while a mysterious black symbiote begins corrupting his personality and powers.",
+        "rating": "3.1",
+        "genre": "Action/Sci-fi",
+        "year": "2007",
+        "ageRating": "PG-13",
+        "related": ["Spider-Man", "Spider-Man 2"]
+      }
+    },
+    {
+      "movies": {
         "title": "The Amazing Spider-Man",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_FMjpg_UX1000_.jpg",
         "video": "https://drive.google.com/file/d/1Xf8xZcY3kneGFln8NPsQMt7CLtmGhEeD/preview",
