@@ -2,6 +2,32 @@
   [
     {
       "movies": {
+        "title": "The Amazing Spider-Man",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1Xf8xZcY3kneGFln8NPsQMt7CLtmGhEeD/preview",
+        "description": "The Amazing Spider-Man (2012) follows Peter Parker as he gains spider-like abilities and searches for the truth about his parents’ disappearance while facing Dr. Curt Connors, a scientist transformed into the dangerous Lizard.",
+        "rating": "3.4",
+        "genre": "Action/Sci-fi",
+        "year": "2012",
+        "ageRating": "PG-13",
+        "related": ["The Amazing Spider-Man 2"]
+      }
+    },
+    {
+      "movies": {
+        "title": "The Amazing Spider-Man 2",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://drive.google.com/file/d/1hnYa-Pkxqu6Qhhp56QXE34Rnctia_3yw/preview",
+        "description": "The Amazing Spider-Man 2 (2014) follows Peter Parker as he battles powerful new enemies, including Electro and the Green Goblin, while struggling to protect Gwen Stacy and uncover more secrets about his past.",
+        "rating": "3.3",
+        "genre": "Action/Adventure",
+        "year": "2014",
+        "ageRating": "PG-13",
+        "related": ["The Amazing Spider-Man"]
+      }
+    },
+    {
+      "movies": {
         "title": "Spider-Man: Homecoming",
         "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12798844_p_v8_ao.jpg",
         "video": "https://drive.google.com/file/d/1jGHx1i3EqHKmQmE42APmxUk4bYHrINQ_/preview",
