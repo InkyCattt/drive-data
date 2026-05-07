@@ -571,6 +571,28 @@
         "year": "2022",
         "ageRating": "TV-MA"
       }
+    },
+    {
+      "tvshows": {
+        "title": "The Disastrous Life of Saiki K",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzJhYWEyMWUtZDYwNS00NTU4LTgwODItYjBlNzEwMTc5MTc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "seasons": "1",
+        "episodes": [
+          {
+            "title": "The Disastrous Life of a Psychic (Part 1",
+            "thumbnail": "https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc6o_QEggrjC7PDibQVARDsJ_M16vZf8N4gie91nNV2kZwFPIgdrR7tRMvg6Hve3jg4WLa8YTjosD2hnkSLqHotSMXwNWXijeFGz.jpg?r=2cf",
+            "video": "https://drive.google.com/file/d/1KGZ_F03_Xc493m_a_6eOzlqSeyBhPPU5/preview",
+            "description": "The Disastrous Life of Saiki K Episode 1 (2016) follows Saiki Kusuo as he introduces his psychic abilities and his strict goal to live a normal, peaceful life, but his plans are immediately disrupted by strange classmates and uncontrollable situations.",
+            "ep": "1",
+            "season": "1"
+          }
+        ],
+        "description": "The Disastrous Life of Saiki K. (2016–2019) follows Kusuo Saiki, a high school student born with powerful psychic abilities, who tries to live a normal, quiet life while constantly dealing with bizarre classmates and uncontrollable supernatural problems.",
+        "rating": "4.6",
+        "genre": "Drama",
+        "year": "2016",
+        "ageRating": "TV-14"
+      }
     }
   ]
 ]
