@@ -9,7 +9,8 @@
         "rating": "4.3",
         "genre": "Family/Fantasy ",
         "year": "1993",
-        "ageRating": "PG"
+        "ageRating": "PG",
+        "related": ["Corpse Bride"]
       }
     },
     {
@@ -253,7 +254,8 @@
         "rating": "3.8",
         "genre": "Family/Fantasy",
         "year": "2005",
-        "ageRating": "PG"
+        "ageRating": "PG",
+        "related": ["The Nightmare Before Christmas"]
       }
     },
     {
