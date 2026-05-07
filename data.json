@@ -579,13 +579,197 @@
         "seasons": "1",
         "episodes": [
           {
-            "title": "The Disastrous Life of a Psychic (Part 1",
-            "thumbnail": "https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc6o_QEggrjC7PDibQVARDsJ_M16vZf8N4gie91nNV2kZwFPIgdrR7tRMvg6Hve3jg4WLa8YTjosD2hnkSLqHotSMXwNWXijeFGz.jpg?r=2cf",
+            "title": "The Disastrous Life of a Psychic (Part 1)",
+            "thumbnail": "https://static.wikia.nocookie.net/saikikusounosainan/images/8/8c/EP1_part_1.jpg/revision/latest?cb=20160708065229",
             "video": "https://drive.google.com/file/d/1KGZ_F03_Xc493m_a_6eOzlqSeyBhPPU5/preview",
             "description": "The Disastrous Life of Saiki K Episode 1 (2016) follows Saiki Kusuo as he introduces his psychic abilities and his strict goal to live a normal, peaceful life, but his plans are immediately disrupted by strange classmates and uncontrollable situations.",
             "ep": "1",
             "season": "1"
-          }
+          },
+          {
+            "title": "The Disastrous Life of a Psychic (Part 2)",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWIyZjg0ZmMtYmM0Zi00NWMyLTg5OWQtYmQ1YTc1NzVmMmIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1n-xNSlsPhGz8e3rfM6J4v1lrO_erUTYi/preview",
+            "description": "The Disastrous Life of Saiki K Episode 2 (2016) follows Saiki as he continues trying to stay unnoticed at school, but his classmates’ odd behavior makes it nearly impossible.",
+            "ep": "2",
+            "season": "1"
+          },
+          {
+            "title": "The Worst of the Worst?! Riki Nendo",
+            "thumbnail": "https://i.quotev.com/abuzmj4aaaaa.jpg",
+            "video": "https://drive.google.com/file/d/19QVBkqwnn8WzjYb6uEVkUFaEgAjNVkAV/preview",
+            "description": "Episode 3 (2016) follows Saiki as he deals with more classmates who become interested in him, forcing him to carefully avoid revealing his psychic powers.",
+            "ep": "3",
+            "season": "1"
+          },
+          {
+            "title": "Shun Kaidou, AKA The Jet-Black Wings",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzRhZTkzYmQtZTgxMS00ZDg0LThkYjYtNTc2MzQ3YzgxMGNiXkEyXkFqcGc@._V1_.jpg",
+            "video": "https://drive.google.com/file/d/16sOLfTWk4jd9ja4epON59BMnO75nnfzF/preview",
+            "description": "Episode 4 (2016) follows Saiki as he tries to avoid trouble during school activities, but his abilities are repeatedly pulled into chaotic situations.",
+            "ep": "4",
+            "season": "1"
+          },
+          {
+            "title": "Intelligent and Beautiful! Kokomi Teruhashi",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWY3NDNhNTItMmYyMi00YWNiLWEyZGItNTEyZDI2OWM5NTJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1IvWSyzz5AFAXvlw2Rw4haL6QkCJNHtZw/preview",
+            "description": "Episode 5 (2016) follows Saiki as he becomes reluctantly involved in his classmates’ problems, despite wanting nothing to do with them.",
+            "ep": "5",
+            "season": "1"
+          },
+          {
+            "title": "Hot-Blooded! Dodgeball! (Part 1)",
+            "thumbnail": "https://static.wikia.nocookie.net/saikikusounosainan/images/7/70/EP_2_part_1.jpg/revision/latest?cb=20160713024203",
+            "video": "https://drive.google.com/file/d/1JLxuG3NOIagGJx2k3aOMGdMWBxxrneNJ/preview",
+            "description": "Episode 6 (2016) follows Saiki as he attempts to enjoy a peaceful day, only for unexpected psychic-related incidents to ruin his plans.",
+            "ep": "6",
+            "season": "1"
+          },
+          {
+            "title": "Hot-Blooded! Dodgeball! (Part 2)",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjM4YTQ3Y2YtMDc1ZC00ZmFjLThmNmMtMTE1ZjBlYjhjZGM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1OIH_UXB6o4Z5ssBMcb_XqUb9ZI7z7IYQ/preview",
+            "description": "Episode 7 (2016) follows Saiki as his attempts at normal school life are interrupted by increasingly strange and persistent classmates.",
+            "ep": "7",
+            "season": "1"
+          },
+          {
+            "title": "Reach Him! Sign of Love",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDRlYmZhNzktZjYwOS00NjBlLTgwZjktOTBkMDQ1NTNiODllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1ocFbp04xlUQLJuwfLTbmKce9xhoiOlMJ/preview",
+            "description": "Episode 8 (2016) follows Saiki as he uses his powers to quietly fix problems while making sure no one discovers the truth about him.",
+            "ep": "8",
+            "season": "1"
+          },
+          {
+            "title": "Saiki Family Home Renovation?! Drastic Makeover!!",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGEzY2U3ZTItZTQzNC00NWYyLTljNWItMTE1ZThkNDQyNGE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1f4q0L25pPw7arJjSLflDm4BGUJOS2kD7/preview",
+            "description": "Episode 9 (2016) follows Saiki as he is dragged into another bizarre situation involving his classmates’ misunderstandings and chaos.",
+            "ep": "9",
+            "season": "1"
+          },
+          {
+            "title": "Deceive! Mind Control",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjU5ZWY1NDEtMDhlOS00NGRjLWIzMjgtZDE1NzRmNDI4OWE4XkEyXkFqcGc@._V1_.jpg",
+            "video": "https://drive.google.com/file/d/1CV2m_hXg3Fc3kXPOasFouoib7g_WX3Uv/preview",
+            "description": "Episode 10 (2016) follows Saiki as he tries to avoid attention during school life, but his efforts only lead to more complications.",
+            "ep": "10",
+            "season": "1"
+          },
+          {
+            "title": "A Genius Magician?! Uryoku Chono",
+            "thumbnail": "https://static.wikia.nocookie.net/saikikusounosainan/images/2/23/EP_3_part_1.jpg/revision/latest?cb=20160715140426",
+            "video": "https://drive.google.com/file/d/1kJN8emcSKAFMB8_DtKjJDhoRvOWi0FXR/preview",
+            "description": "Episode 11 (2016) follows Saiki as he deals with over-the-top school events that make staying normal nearly impossible.",
+            "ep": "11",
+            "season": "1"
+          },
+          {
+            "title": "Second Encounter (on TV)! Uryoku Chono",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGZlYzRkZmYtMTMxMi00Yjk2LTgzMGEtMmNiNmI4ODAwYmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1yAtynigEm5NQON-jbtytdT_1ujJ6qDWo/preview",
+            "description": "Episode 12 (2016) follows Saiki as another chaotic school situation forces him to secretly use his psychic abilities again.",
+            "ep": "12",
+            "season": "1"
+          },
+          {
+            "title": "How Shady! Dark Reunion!",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjBlNDk4MDUtYjYxNS00OTYyLTk3YmItY2VkYmE0ZWY4NWNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1GuL1WSwBLM5htppAsKRLrRCpjKdQdqKx/preview",
+            "description": "Episode 13 (2016) follows Saiki as he continues struggling to maintain a quiet life while his classmates create constant trouble.",
+            "ep": "13",
+            "season": "1"
+          },
+          {
+            "title": "Beachside Summer Story",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmI0ZWYwMGQtMjc5YS00OGJmLThjZTYtNzE2ZjRiYjk2NTgyXkEyXkFqcGc@._V1_.jpg",
+            "video": "https://drive.google.com/file/d/1RXo4UCE6ydXwG8NZNDD1twygW_3eqhZG/preview",
+            "description": "Episode 14 (2016) follows Saiki as new problems arise, forcing him to carefully manage situations without exposing his powers.",
+            "ep": "14",
+            "season": "1"
+          },
+          {
+            "title": "A New School Term Starts! The Melancholy of Nendo",
+            "thumbnail": "https://i.quotev.com/6u6nlmiqaaaa.jpg",
+            "video": "https://drive.google.com/file/d/1_vifLSChB5FD9JTqiYSVvjDwRzWOWQet/preview",
+            "description": "Episode 15 (2016) follows Saiki as he is pulled into more absurd events caused by his energetic classmates.",
+            "ep": "15",
+            "season": "1"
+          },
+          {
+            "title": "Please Make Me Your Apprentice!",
+            "thumbnail": "https://static.wikia.nocookie.net/saikikusounosainan/images/4/44/S1E4P1.png/revision/latest?cb=20190618154238",
+            "video": "https://drive.google.com/file/d/1bOzvX6pcWDWVy8qz6fIvLcaTu-qkBhi4/preview",
+            "description": "Episode 16 (2016) follows Saiki as he tries to avoid involvement in school drama but inevitably gets dragged in anyway.",
+            "ep": "16",
+            "season": "1"
+          },
+          {
+            "title": "Psychic Medium in the Class Next Door",
+            "thumbnail": "https://www.mfi.mn/media/serial/the-disastrous-life-of-saiki-k/season-1/4/4.jpg",
+            "video": "https://drive.google.com/file/d/1RjgtRod9w8Xe4soMlcDiHJ07tFZtD8CX/preview",
+            "description": "Episode 17 (2016) follows Saiki as he quietly solves problems behind the scenes while pretending to be ordinary.",
+            "ep": "17",
+            "season": "1"
+          },
+          {
+            "title": "Kineshi Hairo, in Search of Lumber",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjU0NjhhZTYtMjU4My00MTdlLWE4MTMtYjhmZTA1OGYwZDYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1RjgtRod9w8Xe4soMlcDiHJ07tFZtD8CX/preview",
+            "description": "Episode 18 (2016) follows Saiki as another chaotic situation unfolds, challenging his goal of staying unnoticed.",
+            "ep": "18",
+            "season": "1"
+          },
+          {
+            "title": "Home Alone Disaster",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmVhYjAzY2QtZTkyMC00NGNhLWIwMWEtMTFjNDE3OTcwYmNhXkEyXkFqcGc@._V1_.jpg",
+            "video": "https://drive.google.com/file/d/1RjgtRod9w8Xe4soMlcDiHJ07tFZtD8CX/preview",
+            "description": "Episode 19 (2016) follows Saiki as he deals with misunderstandings that escalate due to his classmates’ strange behavior.",
+            "ep": "19",
+            "season": "1"
+          },
+          {
+            "title": "Crisis in Three-Month Relationship",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDg3ZGQwZWItZDQ5NS00MmQyLWE3ZmEtZDE4MjNjYjk1NDUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1XK3HPUR4kM1dvVRZkDEmmta-R6NSsAHz/preview",
+            "description": "Episode 20 (2016) follows Saiki as he attempts to maintain peace during another unpredictable school day.",
+            "ep": "20",
+            "season": "1"
+          },
+          {
+            "title": "Escape Using an Invincible Suit of Camouflage!",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzQ1NzM1YmYtOTJhYy00ZWQyLTg0NGUtOWU0YmQ4YWE1MDhiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1TkdVa_VFkFPDpWhMKoc4OER_oTRS0wxP/preview",
+            "description": "Episode 21 (2016) follows Saiki as his normal life plans are once again interrupted by unexpected chaos.",
+            "ep": "21",
+            "season": "1"
+          },
+          {
+            "title": "Get Fired Up! PK Academy Sports Day (Part 1)",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjhhNzZkZmQtNmM4MS00NjA3LTgzZTUtN2MyYWY0OThmNzEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/14H9f1xacTQRoRH-ewvgVKcUm9WSiUoSw/preview",
+            "description": "Episode 22 (2016) follows Saiki as he continues hiding his abilities while solving problems without being noticed.",
+            "ep": "22",
+            "season": "1"
+          },
+          {
+            "title": "Get Fired Up! PK Academy Sports Day (Part 2)",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BODAwYTZlODAtMjQ0MC00YzgzLWFiYjQtZTZmZGQ0ZDA0NWE2XkEyXkFqcGc@._V1_.jpg",
+            "video": "https://drive.google.com/file/d/1h7xPrEbiMkXc9QRfv8Nw35LnzeX1Kv2I/preview",
+            "description": "Episode 23 (2016) follows Saiki as situations spiral out of control, forcing him to intervene secretly.",
+            "ep": "23",
+            "season": "1"
+          },
+          {
+            "title": "Got Fired Up! PK Academy Sports Day (Part 3)",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjE4YmIzNWEtODgwOC00NGEzLWI2NWEtNzllNjJhYjdkMDAzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "video": "https://drive.google.com/file/d/1o-Vi_ozWuaC5um3butRve5izBnFIXR0K/preview",
+            "description": "Episode 24 (2016) follows Saiki as another chaotic school experience wraps up, reinforcing his struggle to live a completely normal life.",
+            "ep": "24",
+            "season": "1"
+          },
         ],
         "description": "The Disastrous Life of Saiki K. (2016–2019) follows Kusuo Saiki, a high school student born with powerful psychic abilities, who tries to live a normal, quiet life while constantly dealing with bizarre classmates and uncontrollable supernatural problems.",
         "rating": "4.6",
