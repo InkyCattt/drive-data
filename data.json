@@ -2,6 +2,58 @@
   [
     {
       "movies": {
+        "title": "Scary Movie",
+        "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25765_p_v12_aj.jpg",
+        "video": "https://drive.google.com/file/d/1-61Fls8_MDTVq3r5dHP58joVRiUloxZQ/preview",
+        "description": "Scary Movie (2000) follows a group of teens who are stalked by a masked killer while the story parodies famous horror films like Scream and I Know What You Did Last Summer.",
+        "rating": "3.2",
+        "genre": "Horror/Comedy",
+        "year": "2000",
+        "ageRating": "R",
+        "related": ["Scary Movie 2", "Scary Movie 3", "Scary Movie 4"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Scary Movie 2",
+        "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27977_p_v13_af.jpg",
+        "video": "https://drive.google.com/file/d/1Jmeyjhlpg6A-W-XJPoqC8uhtWztuQe-F/preview",
+        "description": "Scary Movie 2 (2001) follows a group of students invited to a haunted mansion for a fake experiment, only to be caught in supernatural chaos that spoofs classic horror movies like The Exorcist.",
+        "rating": "2.8",
+        "genre": "Horror/Comedy",
+        "year": "2001",
+        "ageRating": "R",
+        "related": ["Scary Movie", "Scary Movie 3", "Scary Movie 4"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Scary Movie 3",
+        "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32943_p_v13_ar.jpg",
+        "video": "https://drive.google.com/file/d/1KN1dzjj-d6MhY47MIgWdT2Au10Ft7Bf1/preview",
+        "description": "Scary Movie 3 (2003) follows Cindy Campbell as she investigates mysterious crop circles and strange videotapes while parodying films like The Ring and Signs.",
+        "rating": "2.9",
+        "genre": "Horror/Comedy",
+        "year": "2003",
+        "ageRating": "R",
+        "related": ["Scary Movie", "Scary Movie 2", "Scary Movie 4"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Scary Movie 4",
+        "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159780_p_v10_ak.jpg",
+        "video": "https://drive.google.com/file/d/1pgH5VfJEi5NRVEtp2y_vZMSOk_rh3Har/preview",
+        "description": "Scary Movie 4 (2006) follows Cindy as she uncovers an alien invasion and haunted house mystery, parodying films like War of the Worlds and Saw.",
+        "rating": "3.0",
+        "genre": "Horror/Comedy",
+        "year": "2006",
+        "ageRating": "R",
+        "related": ["Scary Movie", "Scary Movie 2", "Scary Movie 3"]
+      }
+    },
+    {
+      "movies": {
         "title": "Space Jam",
         "thumbnail": "https://static.wikia.nocookie.net/hoopz-barkley-saga/images/9/9e/Article-spacejamweb-0221.jpg/revision/latest?cb=20140705211836",
         "video": "https://drive.google.com/file/d/1QK9RHd2T-ijthIL7A6NQvRztPkTx8NtN/preview",
