@@ -2,6 +2,32 @@
   [
     {
       "movies": {
+        "title": "Terrifier",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzY5ZTAxZDgtN2E3Zi00NTUxLWJmZDUtZTliMTA3Y2Y1NjU0XkEyXkFqcGc@._V1_.jpg",
+        "video": "https://drive.google.com/file/d/18N4_ou-sji02HD3dOFNP0aDqCBleLr7G/preview",
+        "description": "Terrifier (2016) follows a night of terror on Halloween when a silent, sadistic clown named Art the Clown stalks and brutally hunts down two young women, turning their night into a fight for survival.",
+        "rating": "2.7",
+        "genre": "Horror/Slasher",
+        "year": "2016",
+        "ageRating": "R",
+        "related": ["Terrifier 3"]
+      }
+    },
+    {
+      "movies": {
+        "title": "Terrifier 3",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTspMRlkezHo1Fkfv15LOwTHxysNuuSR90deHMKNBKEBDVLScsL",
+        "video": "https://drive.google.com/file/d/1C0yGUsqW5IT81q8PAebnlw0Ha6oHWYV4/preview",
+        "description": "Terrifier 3 (2024) follows Art the Clown as he returns to continue his violent rampage, unleashing more brutal terror on new victims while survivors from past attacks struggle to escape his growing trail of horror.",
+        "rating": "3.1",
+        "genre": "Horror/Crime",
+        "year": "2024",
+        "ageRating": "R",
+        "related": ["Terrifier"]
+      }
+    },
+    {
+      "movies": {
         "title": "Spider-Man",
         "thumbnail": "https://i.redd.it/ourazguupfx71.jpg",
         "video": "https://drive.google.com/file/d/1sqWGrmbGc5lBmoFbtfMSIaqb60eXppvF/preview",
