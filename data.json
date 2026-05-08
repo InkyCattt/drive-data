@@ -10,7 +10,7 @@
         "genre": "Family/Fantasy ",
         "year": "1993",
         "ageRating": "PG",
-        "related": ["Corpse Bride"]
+        "related": ["Corpse Bride", "Beetlejuice", "Beetlejuice Beetlejuice"]
       }
     },
     {
@@ -255,7 +255,7 @@
         "genre": "Family/Fantasy",
         "year": "2005",
         "ageRating": "PG",
-        "related": ["The Nightmare Before Christmas"]
+        "related": ["The Nightmare Before Christmas", "Beetlejuice", "Beetlejuice Beetlejuice"]
       }
     },
     {
@@ -513,7 +513,7 @@
         "genre": "Horror/Fantasy",
         "year": "1988",
         "ageRating": "PG-13",
-        "related": ["Beetlejuice Beetlejuice"]
+        "related": ["Corpse Bride", "The Nightmare Before Christmas", "Beetlejuice Beetlejuice"]
       }
     },
     {
@@ -526,7 +526,7 @@
         "genre": "Horror/Comedy",
         "year": "2024",
         "ageRating": "PG-13",
-        "related": ["Beetlejuice"]
+        "related": ["Corpse Bride", "The Nightmare Before Christmas", "Beetlejuice"]
       }
     },
     {
