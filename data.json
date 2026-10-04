@@ -885,6 +885,18 @@
         "ageRating": "R",
         "related": ["Scream", "Scream 2", "Scream 3", "Scream 5"]
       }
+    },
+    {
+      "movies": {
+        "title": "A Goofy Movie",
+        "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16652_p_v8_ah.jpg",
+        "video": "https://drive.google.com/file/d/1ify_EMaQW-ZAn2F0STztn2AGU-jE7aHL/view",
+        "description": "N/A",
+        "rating": "4.1",
+        "genre": "Musical/Comedy/Animated",
+        "year": "1995",
+        "ageRating": "G"
+      }
     }
   ],
   [
